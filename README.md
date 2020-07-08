@@ -1,5 +1,5 @@
 # GitSeminar
 
-new Text - dev
+edit with master
 
-PR to 201502038
+please get my pr - dolveLatte
